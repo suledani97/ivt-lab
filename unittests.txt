@@ -1,0 +1,5 @@
+1. Az elsõ tüzelésnél teszteljük hogy az elsõ tüzel e (mockts1 egyszer)
+2. A második tüzelésnél teszteljük, hogy a második tüzel e. (mockts2 egyszer)
+3. Ha a következõ üres, akkor megint ugyanazzal tüzelünk. (mockts1 egyszer, mockts2 egyszer)
+4. Ha hiba van a tüzelt store-ral, alapból hibával tér vissza
+5. Ha mindkettõ üres, hibával tér vsisza
